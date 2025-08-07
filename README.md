@@ -1,3 +1,4 @@
+
 ### Olá! Eu sou o Vinicius Gabriel 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-gabriel-da-silva-33627a275/)
@@ -12,4 +13,13 @@ style="display: inline_block"><br>
 <img align ="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align ="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align ="center" alt="java" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+</div><br/>
+
+ Sou estudante de Engenharia da Computação. Atualmente no 6º semestre, estou dando meus primeiros passos no mundo do desenvolvimento e buscando projetos incríveis para colocar a mão na massa! 🚀
+
+ ## Contatos:
+ -Email: viniciusgabriel1401@gmail.com
+
+
+
+
